@@ -3,10 +3,8 @@
 <p>
 </p>
 
-## Install
-
-```sh
-yarn install
+## Online 
+Acesse a aplicação através do link: https://raquelpaiva.github.io/jogo_nave_DIO/
 ```
 
 ## Author
