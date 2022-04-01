@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to Jogo do Helicóptero (nave)👋</h1>
 <p>
-  Este jogo foi desenvolvido através das aulas da <b>Digital Inovation One</b>para o Bootcamp da <b>Take Blip</b>
+  Este jogo foi desenvolvido através das aulas da <b>Digital Inovation One</b> para o Bootcamp da <b>Take Blip</b>
   <br><b> Tecnologias</b>: HTML, CSS, Javascript, Café & Persistência</br>
 </p>
 
