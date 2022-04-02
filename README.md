@@ -20,7 +20,12 @@
   5- Clique em <b>Jogar novamente</b> para um novo jogo.</br>
   6- Se divirta!
 </p>
- 
+<p> 
+  <b>Implementações futuras: </b><br>
+  Responsividade (mobile)</br>
+  Adicionar novas fases</br>
+  Criar perfil</br>
+ </p>
 
 ```
 
